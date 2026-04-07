@@ -64,6 +64,7 @@ All configuration is in `.env.local`:
 ### Optional
 - `ETHER_PRIVATE_KEY` - Private key for contract deployment
 
+
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
