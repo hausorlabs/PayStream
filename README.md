@@ -96,6 +96,7 @@ Expected response:
 }
 ```
 
+
 ## 📚 Core Libraries
 
 ### 1. Gemini AI (`src/lib/gemini.ts`)
